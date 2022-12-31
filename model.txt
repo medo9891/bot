@@ -1,0 +1,5 @@
+faker
+requests
+names
+user_agent
+aiogram
